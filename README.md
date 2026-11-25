@@ -53,7 +53,7 @@ Includes contributions from (in alphabetical order):
 - Olympic1 (Arne Peirs)
 - TMS
 - WaylandSmith
-=======
+
 REPOSoftTech Utilities
 ======================
 
